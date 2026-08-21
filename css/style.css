@@ -155,3 +155,9 @@ a { color: inherit; }
   .video-list { grid-template-columns: 1fr; }
   .wrap { padding: 90px 24px 70px; }
 }
+
+@media (max-width: 640px) {
+  .intro-break {
+    display: none;
+  }
+}
