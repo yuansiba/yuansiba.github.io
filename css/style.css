@@ -161,13 +161,3 @@ a { color: inherit; }
     display: none;
   }
 }
-
-.intro-nowrap {
-  white-space: nowrap;
-}
-
-@media (max-width: 640px) {
-  .intro-nowrap {
-    white-space: normal;
-  }
-}
